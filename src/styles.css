@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    color: blue;
+    background-color: aquamarine;
+}
+    .form-group{
+        width: 300px;
+       
+    }
+ 
+#dropdownMenuButton{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+    
